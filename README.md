@@ -1,12 +1,15 @@
 🚀 Customer Churn Analysis & Prediction | Power BI Project
 
+
 📊 Project Overview:
 Total Customers Analyzed: 7,043
 Churned Customers: 1,869
 Overall Churn Rate: 26.54%
 Average Tenure: 32.37 months
 
+
 🔍 Key Insights:
+
 ✅ Tenure Impact
     Customers in the 0–12 months tenure group show the highest churn rate. Early-stage customer experience plays a crucial role in retention.
 
