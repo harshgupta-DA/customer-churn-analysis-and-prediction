@@ -1,6 +1,5 @@
 🚀 Customer Churn Analysis & Prediction | Power BI Project
 
-
 📊 Project Overview:
 Total Customers Analyzed: 7,043
 Churned Customers: 1,869
